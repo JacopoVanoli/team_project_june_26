@@ -192,7 +192,7 @@ mvall <- mixmeta::mixmeta(coefmeta~rangetmean+avgtmean,vcovmeta, metavarALL,
 
 
 
-saveRDS(blup, "01_exposure_response_functions/secondstage.rds")
+saveRDS(blup, '/Users/jv24t611/Library/CloudStorage/OneDrive-UniversitaetBern/my projects/team_project/team_project_june_26/01_exposure_response_functions/secondstage.rds')
 
 
 
